@@ -1,2 +1,2 @@
-# static-files
+# Static Files
 Project for my static hosted files
